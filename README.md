@@ -1,11 +1,11 @@
-[<img align="center" src="https://github.com/NittalaAditya/NittalaAditya/blob/main/adi-intro.gif"  title="👋 Hi there! I'm Nittala Venkata Sai Aditya"/>](https://nittalaaditya.github.io/)
+[<img align="center" src="https://github.com/NittalaAditya/NittalaAditya/blob/main/adi-intro.gif"  title="Hi there! I'm Nittala Venkata Sai Aditya"/>](https://nittalaaditya.github.io/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nittala-venkata-sai-aditya/)](https://www.linkedin.com/in/nittala-venkata-sai-aditya/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nittala.aditya@utexas.edu)](mailto:nittala.aditya@utexas.edu)
 [![Website_Badge](https://img.shields.io/badge/Website-black?style=flat-squaree&logo=About.me&logoColor=white)](https://nittalaaditya.github.io/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NittalaAditya" alt="NittalaAditya" /> </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/NittalaAditya/NittalaAditya/blob/main/hello.gif" width = 60px></picture> **About me**
  <picture> <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width = 250px></picture>
 
 - Graduate student currently pursuing Business Analytics at UT Austin's McCombs School of Business.
