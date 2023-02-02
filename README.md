@@ -16,12 +16,32 @@
 
 <br>
 
-**Languages and Tools:**  
+## **Languages and Tools:**  
 
 
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </a><a href = "https://aws.amazon.com/"><img src ="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"  alt="" width="40" height="40"/> </a><a href="https://powerbi.microsoft.com/en-us/"><img src ="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.tableau.com/"><img src="https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg"alt="powerbi" width="40" height="40"/> </a> <a href = "https://www.alteryx.com/"><img src ="https://github.com/detain/svg-logos/blob/master/svg/alteryx-logo.svg"  alt="" width="40" height="40"/> </a> <a href = "https://www.postgresql.org/"><img src ="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"  alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src = "https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqllite" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a></p>
+<p align="left"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="c++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
+ <img src ="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"  alt="AWS" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="apache spark" width="40" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="apache hadoop" width="40" height="40"/> 
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg" alt="tableau" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> 
+ <img src ="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"  alt="jenkins" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+ <img src = "https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqllite" width="40" height="40"/></p>
 
+<br>
 
+## **Contact**
 
+- You can contact me via [**Linkedin**](https://www.linkedin.com/in/nittala-venkata-sai-aditya) or by dropping a mail to **nittala.aditya@utexas.edu**
+- Please find my latest [**Resume**](https://drive.google.com/drive/u/0/folders/1xk9AOrVDKc0rVZzCmiOAbPPC15z5UeVI)
 
 
