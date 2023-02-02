@@ -1,32 +1,25 @@
-<!-- [<img align="right" src="https://github.com/NittalaAditya/NittalaAditya/blob/main/introduction.gif" width="300" height="auto"  title="👋 Hi there! I'm Nittala Venkata Sai Aditya|https://nittalaaditya.github.io/)"/>](https://nittalaaditya.github.io/) -->
-<p  align="center"><img height="380" width="1000" src = "https://github.com/NittalaAditya/NittalaAditya/blob/main/adi-intro.gif"></p>
+[<img align="center" src="https://github.com/NittalaAditya/NittalaAditya/blob/main/adi-intro.gif"  title="👋 Hi there! I'm Nittala Venkata Sai Aditya"/>](https://nittalaaditya.github.io/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-nittalaaditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nittala-venkata-sai-aditya/)](https://www.linkedin.com/in/nittala-venkata-sai-aditya/)
 [![Gmail Badge](https://img.shields.io/badge/-nittala.aditya@utexas.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nittala.aditya@utexas.edu)](mailto:nittala.aditya@utexas.edu)
+[![Website_Badge](https://img.shields.io/badge/nittalaaditya-black?style=flat-squaree&logo=About.me&logoColor=white)](https://nittalaaditya.github.io/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NittalaAditya" alt="NittalaAditya" /> </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<br />
+ <picture> <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width = 250px></picture>
 
-- I am a graduate student currently pursuing Business Analytics at UT Austin's McCombs School of Business.
-- I worked as an Associate Software Engineer (Machine Learning) at Goldman Sachs from 2019-2022 were I collaborated with cross functional teams in analysing external charging patterns and optimizing our payments timeline while ensuring scalability of the solutions.
-- I did my undergrad in Computer Science from VIT University, Vellore, India.
-- I am looking for full time job opportunities in  United States. I am open to Data Scientist/ML Engineer/Data Engineer roles
-- I always strive to be the best in my field and explore business opportunities in unexplored areas through the power of analytics
+- Graduate student currently pursuing Business Analytics at UT Austin's McCombs School of Business.
+- Worked as an Associate Software Engineer (Machine Learning) at Goldman Sachs from 2019-2022 where I collaborated with cross functional teams in analysing external charging patterns, optimizing our payments timeline and ensuring scalability of the software.
+- Completed my undergrad in Computer Science from VIT University, Vellore, India.
+- Strive to be the best in my field and explore business opportunities in unexplored areas through the power of analytics
+- <b> Looking for full time job opportunities in  United States. I am open to Data Scientist/ML Engineer/Data Engineer roles </b>
+
+<br>
+
+**Languages and Tools:**  
 
 
-
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </a><a href = "https://aws.amazon.com/"><img src ="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"  alt="" width="40" height="40"/> </a><a href="https://powerbi.microsoft.com/en-us/"><img src ="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.tableau.com/"><img src="https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg"alt="powerbi" width="40" height="40"/> </a> <a href = "https://www.alteryx.com/"><img src ="https://github.com/detain/svg-logos/blob/master/svg/alteryx-logo.svg"  alt="" width="40" height="40"/> </a> <a href = "https://www.postgresql.org/"><img src ="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"  alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src = "https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqllite" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a></p>
 
 
 
