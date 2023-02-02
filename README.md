@@ -1,19 +1,19 @@
-[<img align="center" src="https://github.com/NittalaAditya/NittalaAditya/blob/main/introduction.gif" width="500" height="auto"  title="👋 Hi there! I'm Nittala Venkata Sai Aditya|https://nittalaaditya.github.io/)"/>](https://nittalaaditya.github.io/)
+<!-- [<img align="right" src="https://github.com/NittalaAditya/NittalaAditya/blob/main/introduction.gif" width="300" height="auto"  title="👋 Hi there! I'm Nittala Venkata Sai Aditya|https://nittalaaditya.github.io/)"/>](https://nittalaaditya.github.io/) -->
+<p  align="center"><img height="380" width="1000" src = "https://github.com/NittalaAditya/NittalaAditya/blob/main/adi-intro.gif"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-nittalaaditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nittala-venkata-sai-aditya/)](https://www.linkedin.com/in/nittala-venkata-sai-aditya/)
 [![Gmail Badge](https://img.shields.io/badge/-nittala.aditya@utexas.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nittala.aditya@utexas.edu)](mailto:nittala.aditya@utexas.edu)
 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <br />
 
-Hi, i'm [Nittala Venkata Sai Aditya](), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+- I am a graduate student currently pursuing Business Analytics at UT Austin's McCombs School of Business.
+- I worked as an Associate Software Engineer (Machine Learning) at Goldman Sachs from 2019-2022 were I collaborated with cross functional teams in analysing external charging patterns and optimizing our payments timeline while ensuring scalability of the solutions.
+- I did my undergrad in Computer Science from VIT University, Vellore, India.
+- I am looking for full time job opportunities in  United States. I am open to Data Scientist/ML Engineer/Data Engineer roles
+- I always strive to be the best in my field and explore business opportunities in unexplored areas through the power of analytics
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 
@@ -28,34 +28,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   24 hrs 36 mins  ██████████████████████▓░░   90.50 %
-JSON         1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-JavaScript   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-```
-
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
