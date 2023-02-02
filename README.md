@@ -40,7 +40,8 @@
 
 ## **Contact**
 
-- You can contact me via [**Linkedin**](https://www.linkedin.com/in/nittala-venkata-sai-aditya) or by dropping a mail to **nittala.aditya@utexas.edu**
-- Please find my latest [**Resume**](https://drive.google.com/drive/u/0/folders/1xk9AOrVDKc0rVZzCmiOAbPPC15z5UeVI)
+- Please feel free to contact me via [**Linkedin**](https://www.linkedin.com/in/nittala-venkata-sai-aditya) or by dropping a mail to **nittala.aditya@utexas.edu** if you like my profile
+- You can find my latest [**Resume**](https://drive.google.com/drive/u/0/folders/1xk9AOrVDKc0rVZzCmiOAbPPC15z5UeVI) here
 
+ 
 
