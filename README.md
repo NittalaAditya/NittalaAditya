@@ -15,9 +15,7 @@
 - <b> Looking for full time job opportunities in  United States. I am open to Data Scientist/ML Engineer/Data Engineer roles </b>
 
 <br>
-
 ## **Languages and Tools:**  
-
 
 <p align="left"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
