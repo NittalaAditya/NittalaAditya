@@ -15,6 +15,7 @@
 - <b> Looking for full time job opportunities in  United States. I am open to Data Scientist/ML Engineer/Data Engineer roles </b>
 
 <br>
+
 ## **Languages and Tools:**  
 
 <p align="left"> 
