@@ -14,7 +14,6 @@
 - Strive to be the best in my field and explore business opportunities in unexplored areas through the power of analytics
 - <b> Looking for full time job opportunities in  United States. I am open to Data Scientist/ML Engineer/Data Engineer roles </b>
 
-<br>
 
 ## **Languages and Tools:**  
 
