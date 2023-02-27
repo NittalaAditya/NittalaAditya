@@ -11,7 +11,7 @@
 - Graduate student currently pursuing Business Analytics at UT Austin's McCombs School of Business
 - Worked as an Associate Software Engineer (Machine Learning) at Goldman Sachs from 2019-2022 where I collaborated with cross functional teams in analysing external charging patterns, optimizing our payments timeline and ensuring scalability of the software
 - Completed my undergrad in Computer Science from VIT University, Vellore, India
-- Strive to be the best in my field and explore business opportunities in unexplored areas through the power of analytics
+- Strive to be the best in my field and explore business opportunities in unexplored areas through the power of data analytics
 - <b> Looking for full time job opportunities in  United States. I am open to Data Scientist/ML Engineer/Data Engineer roles </b>
 
 
